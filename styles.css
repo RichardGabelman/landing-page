@@ -69,3 +69,16 @@ ul {
   color: #F9FAF8;
   padding: 120px 150px;
 }
+
+.signup {
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #3882F6;
+  background: #3882F6;
+}
