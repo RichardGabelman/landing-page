@@ -156,8 +156,40 @@ ul {
 
 .action-section {
   background-color: white;
+  padding: 100px 300px;
 }
 
 .bar {
   background-color: #3882F6;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 100px;
+}
+
+.upper-call {
+  font-size: 24px;
+  font-weight: 700;
+  color: #F9FAF8;
+}
+
+.lower-call {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.bottom-signup {
+  width: 145px;
+  padding: 10px 40px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #3882F6;
+  background: #3882F6;
+  border: 2px solid white;
 }
